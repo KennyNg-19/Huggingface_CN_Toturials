@@ -1,0 +1,6 @@
+*.arrow
+data/*.json
+
+
+.DS_Store
+
