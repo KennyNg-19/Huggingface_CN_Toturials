@@ -4,3 +4,5 @@ data/*.json
 
 .DS_Store
 
+*.bin
+*.json
